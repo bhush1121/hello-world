@@ -1,3 +1,4 @@
 # hello-world
 My First Repository
-This is a sample readme completion
+This is Bhushan. I am a S/W Dev and Researcher.
+
